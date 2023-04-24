@@ -85,4 +85,25 @@ Next we will download the file PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and 
 <img src="https://i.imgur.com/I8k9zx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+Next download and install the VC_redist.x86.exe file. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dQKXbo6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Next we will download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) with these steps:
+Typical Setup ->
+Launch Configuration Wizard (after install) ->
+Standard Configuration ->
+Password1
+<br />
+  
+  
+
+
+
 
