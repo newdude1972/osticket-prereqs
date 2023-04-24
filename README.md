@@ -30,6 +30,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/uDmGjwI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7BiIn8D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8WHiGKb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zGvDJjA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2Payf5Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4a4BoPg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 The first step to installing osTicket ticketing system to your computer or virtual machine is to install Information Services from windows start menu and enable it to use CGI. This step will allow your computer to serve up a website to use the ticketing system. Right click the windows start menu. Click run and enter "control panel" into the field. Select "Programs" then select "Turn Windows features on or off." Next check the "Internet Information Services" box. Expand the field with the + button. Expand the "World Wide Web Services" tab. Next expand the "Applications Development Features" field. Next check the box for "CGI" and select "OK".
