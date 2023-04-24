@@ -74,3 +74,15 @@ Next we will create a directory of C:\PHP on the main drive to store and run our
 <img src="https://i.imgur.com/AxFncqE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/X3scxw8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
+
+<p>
+Next we will download the file PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into our newly created directory C:\PHP.
+<br />
+  
+<p>
+<img src="https://i.imgur.com/cdkBx5r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bvHM6WJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I8k9zx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
