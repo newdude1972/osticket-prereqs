@@ -102,8 +102,66 @@ Standard Configuration ->
 Password1
 <br />
   
+<p>
+<img src="https://i.imgur.com/iHMPhdc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R3xOWn4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cP4f2DN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hkEkM97.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hDgCHpv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kRiQZIO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mOYsfCJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Dcx3eXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MOKDsTY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+Open IIS as an administrator and register PHP from within IIS. Type in IIS in the windows search box. Select run as administrator. Reload IIS  (Open IIS, Stop and Start the server)
+<br />
+  
+<p>
+<img src="https://i.imgur.com/fy3oL4p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5nyMF5G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CTW5RF1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZTTTRSS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gXHC5nd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+  
+<p>
+Install osTicket v1.15.8. 
+<br />
+  
+<p>
+<img src="https://i.imgur.com/1ayAxEJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V3x4uiZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m1tNiIE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yXImjDF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Mlvxsvw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KO1mzj0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/evUzil7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UwmOUz8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p> 
+
+<p>
+Note that some of the extensions are not enabled. Go back to IIS, sites -> Default -> osTicket. Double-click PHP Manager. Click “Enable or disable an extension”. Enable: php_imap.dll. Enable: php_intl.dll. Enable: php_opcache.dll. Refresh the osTicket site in your browse, observe the changes.
+<br />
+  
+<p>
+<img src="https://i.imgur.com/wGipn7o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uJty81c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zqs9nY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OGfTAxP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xy3L2ee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iNwvvPZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<p>
+Rename: ost-config.php from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php.
+<br />
   
 
-
-
+<p>
+<img src="https://i.imgur.com/qXqmrGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mCNpcTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
