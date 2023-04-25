@@ -165,3 +165,30 @@ Rename: ost-config.php from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig
 <img src="https://i.imgur.com/mCNpcTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+
+<p>
+Assign Permissions: ost-config.php. Disable inheritance -> Remove All. New Permissions -> Everyone -> All. Continue Setting up osTicket in the browser (click Continue). Name Helpdesk. Enter a Default email (receives email from customers).
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/jfNciGS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o37oJsk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6KgNSz1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d7URoQv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wmjdheO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/famg6dK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/i4j0F6E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/254lEKl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
+</p>
+
+
+<p>
+Continue Setting up osTicket in the browser (click Continue). Name Helpdesk and set up default email(receives email from customers)
+<br />
+  
+  
+<p>
+<img src="https://i.imgur.com/7AI0jwQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/73rYZoP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> 
