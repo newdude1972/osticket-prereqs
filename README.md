@@ -206,3 +206,38 @@ Download and install HeidiSQL. Create a new session, root/Password1. Connect to 
 <img src="https://i.imgur.com/5FWC9MU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/881Ea29.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>  
+
+
+
+<p>
+Continue Setting up osticket in the browser. MySQL Database: osTicket. MySQL Username: root. MySQL Password: Password1. Click “Install Now!”
+<br />
+  
+  
+<p>
+<img src="https://i.imgur.com/bkmVhEK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>  
+
+
+<p>
+Congratulations, hopefully it is installed with no errors! Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+End Users osTicket URL:http://localhost/osTicket/. Now we will finish with a quick cleanup to ensure smooth operation of osTicket. Delete: C:\inetpub\wwwroot\osTicket\setup. Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<br />
+  
+  
+<p>
+<img src="https://i.imgur.com/mCB0zKH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AhqFwhY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F8WX8Ia.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QBrUv5c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LkHfVY4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>  
+
+<p>
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php. End Users osTicket URL: http://localhost/osTicket/.
+<br />
+  
+  
+<p>
+<img src="https://i.imgur.com/WAlTudY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
