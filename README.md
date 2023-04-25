@@ -192,3 +192,17 @@ Continue Setting up osTicket in the browser (click Continue). Name Helpdesk and 
 <img src="https://i.imgur.com/7AI0jwQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/73rYZoP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p> 
+
+
+<p>
+Download and install HeidiSQL. Create a new session, root/Password1. Connect to the session. Create a database called “osTicket”.
+<br />
+  
+  
+  
+<p>
+<img src="https://i.imgur.com/xrkb4IG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZtMTrAR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5FWC9MU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/881Ea29.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>  
